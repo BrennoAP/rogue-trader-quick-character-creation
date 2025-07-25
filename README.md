@@ -1,4 +1,4 @@
-# 🃏 Rogue trader simple character creation -NÂO FINALIZADO, AINDA EM CONSTRUÇÂO-
+# Rogue trader simple character creation -NÃO FINALIZADO, AINDA EM CONSTRUÇÃO-
 
 Este projeto foi feito com o objetivo principal de **praticar e aprender Flexbox** no CSS, a ideia de criação de ficha de personagem surgiu devido a alguns colegas reclamarem do trabalho que era fazer fichar de personagem manualmente e principalmente prototipar ideias.  
 A proposta é simples: uma página com cards organizados de forma responsiva e estilizada, e montar uma ficha simples com as informações.
@@ -26,7 +26,7 @@ Este projeto é **puramente educacional**, voltado para:
 
 ---
 
-## 🧠 Aprendizados
+## Aprendizados
 
 - Como alinhar e distribuir elementos com Flexbox
 - Diferença entre `justify-content`, `align-items`, `flex-wrap` etc.
@@ -34,14 +34,14 @@ Este projeto é **puramente educacional**, voltado para:
 
 ---
 
-## 📌 Observações
+## Observações
 
 Esse projeto não visa performance, SEO, semântica nem boas práticas completas.  
 É um playground para estudar **layout com CSS** e brincar com recursos modernos do navegador ao mesmo tempo que auxilia em um processo chato para jogadores de Rogue Trader.
 
 ---
 
-## 📚 Referências
+## Referências
 
 - [Guia de Flexbox (CSS-Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [MDN - View Transitions API](https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API)
